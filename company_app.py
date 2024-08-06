@@ -177,6 +177,7 @@ def print_project_menu():
     print("3. Back to Main Menu")
     print("*************************")
 
+
 def handle_projects(team):
     while True:
         print_project_menu()
